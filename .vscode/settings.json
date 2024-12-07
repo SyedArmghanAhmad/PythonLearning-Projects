@@ -1,0 +1,29 @@
+{
+    "cSpell.words": [
+        "cbar",
+        "cmap",
+        "colorbar",
+        "coolwarm",
+        "edgecolor",
+        "Faislabad",
+        "frontalface",
+        "haarcascade",
+        "imread",
+        "imshow",
+        "imwrite",
+        "linestyle",
+        "markersize",
+        "mxlx",
+        "Resizer",
+        "synset",
+        "uuxp",
+        "vogu",
+        "wordnet",
+        "xget",
+        "xlabel",
+        "xlim",
+        "ylabel",
+        "ylim"
+    ],
+    "python.REPL.enableREPLSmartSend": false
+}
