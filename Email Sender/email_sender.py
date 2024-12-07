@@ -20,4 +20,8 @@ context = ssl.create_default_context()
 with smtplib.SMTP_SSL('smtp.gmail.com',465,context=context) as smtplib:
     smtplib.login(email_sender, email_password)
     smtplib.send_message(em)
+<<<<<<< HEAD
     print("Email sent successfully")
+=======
+    print("Email sent successfully")
+>>>>>>> f3b614e96650576837b5bc3d006a1c541a619f50

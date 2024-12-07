@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+<<<<<<< HEAD
         "cbar",
         "cmap",
         "colorbar",
@@ -26,4 +27,11 @@
         "ylim"
     ],
     "python.REPL.enableREPLSmartSend": false
+=======
+        "mxlx",
+        "uuxp",
+        "vogu",
+        "xget"
+    ]
+>>>>>>> f3b614e96650576837b5bc3d006a1c541a619f50
 }
